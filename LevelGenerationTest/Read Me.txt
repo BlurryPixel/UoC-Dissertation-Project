@@ -1,0 +1,8 @@
+This dissertation project requires a controller to operate.
+
+D-Pad Up - Change to the overhead camera to view the level generation
+D-Pad Down - Reset and regenerate the level
+
+Left Stick - Move the character
+Right Stick - Rotate the character
+Right Bumper - Fire the weapon
